@@ -1,2 +1,7 @@
 This is the first demo text for Git.
-Some changes are to be committed by the next version.
+Some changes are to be committed by the next version.\
+
+New changes.
+To understand the gitdiif command
+
+Using the git log amend command!
