@@ -1,0 +1,2 @@
+This is the first demo text for Git.
+Some changes are to be committed by the next version.
